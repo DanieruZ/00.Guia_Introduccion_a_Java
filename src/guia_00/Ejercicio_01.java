@@ -14,6 +14,7 @@ import java.util.Scanner;
  ***************************************************************/
 
 public class Ejercicio_01 {
+
     public static PrintStream show = System.out;
     public static Scanner scan = new Scanner(System.in);
 
@@ -29,12 +30,12 @@ public class Ejercicio_01 {
         show.println("  -------------------");
         show.println("\n");
 
-        show.printf("El valor de 'N' es: %s%n",N);
-        show.printf("El valor de 'A' es: %s%n",A);
-        show.printf("El valor de 'C' es: %s%n",C);
+        show.printf("El valor de 'N' es: %s\n",N);
+        show.printf("El valor de 'A' es: %s\n",A);
+        show.printf("El valor de 'C' es: %s",C);
         show.println("\n");
-        show.printf("La suma entre (N+A) es: %s%n",N+A);
-        show.printf("La diferencia entre (A-N) es: %s%n",A-N);
-        show.printf("El valor numerico de 'C' es: %s%n",Integer.valueOf(C));
+        show.printf("La suma entre (N + A) es: %s\n",N + A);
+        show.printf("La diferencia entre (A - N) es: %s\n",A - N);
+        show.printf("El valor numerico de 'C' es: %s",(int) C);
     }
 }

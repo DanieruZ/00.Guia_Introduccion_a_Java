@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440e12f2-c33e-4533-91ce-def1bbb627e2" name="Default Changelist" comment="Probando, ejercicios 1 y 2 terminados.">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guia_00 - Introduccion a Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guia_00/Ejercicio_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guia_00/Ejercicio_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guia_00/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guia_00/Ejercicio_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guia_00/Ejercicio_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guia_00/Ejercicio_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guia_00/Ejercicio_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guia_00/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guia_00/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pndgr6he72NhLmUiUj7Z1vQkRw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -120,7 +114,26 @@
       <option name="presentableId" value="Default" />
       <updated>1615822923977</updated>
     </task>
+    <task id="LOCAL-00001" summary="Probando, ejercicios 1 y 2 terminados.">
+      <created>1615827245595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615827245595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Probando, ejercicios 1 y 2 terminados." />

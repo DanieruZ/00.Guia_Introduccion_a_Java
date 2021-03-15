@@ -12,6 +12,7 @@ import java.util.Scanner;
  ***************************************************************/
 
 public class Ejercicio_02 {
+
     public static PrintStream show = System.out;
     public static Scanner scan = new Scanner(System.in);
 
@@ -28,14 +29,14 @@ public class Ejercicio_02 {
         show.println("  -------------------");
         show.println("\n");
 
-        show.printf("El valor de 'X' es: %s%n",X);
-        show.printf("El valor de 'Y' es: %s%n",Y);
-        show.printf("El valor de 'N' es: %s%n",N);
-        show.printf("El valor de 'M' es: %s%n",M);
+        show.printf("El valor de 'X' es: %s\n",X);
+        show.printf("El valor de 'Y' es: %s\n",Y);
+        show.printf("El valor de 'N' es: %s\n",N);
+        show.printf("El valor de 'M' es: %s\n",M);
         show.println("\n");
-        show.printf("La suma entre (N+M) es: %s%n",N+M);
-        show.printf("La diferencia entre (M-N) es: %s%n",M-N);
-        show.printf("El cociente entre (X/N) es: %s%n",X/N);
-        show.printf("El producto entre (X*Y) es: %s%n",X*Y);
+        show.printf("La suma entre (N + M) es: %s\n",N + M);
+        show.printf("La diferencia entre (M-N) es: %s\n",M - N);
+        show.printf("El cociente entre (X / N) es: %s\n",X / N);
+        show.printf("El producto entre (X * Y) es: %s\n",X * Y);
     }
 }
